@@ -1,0 +1,14 @@
+.button{
+    padding-block: 20px;
+    padding-inline: 57px;
+    font-family: var(--font-family);
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 150%;
+    letter-spacing: 0.01em;
+    text-align: center;
+    color: #e1b168;
+    background-color: transparent;
+    border: 2px solid #E1B168;
+    cursor: pointer;
+}
